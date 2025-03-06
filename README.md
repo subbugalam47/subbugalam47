@@ -1,7 +1,8 @@
 ## Hi there 👋
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/subbu-galam_69/)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/subbu-galam_69?theme=nord&font=Ubuntu&ext=contest)](https://leetcode.com/subbu-galam_69/)
-
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Level--Up-orange?style=for-the-badge&logo=leetcode)
 <!--
 **subbugalam47/subbugalam47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
