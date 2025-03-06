@@ -1,20 +1,64 @@
-## Hi there 👋
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/subbu-galam_69/)
+<h1 align="center">Hi, I'm [Subhas Chakravarty Galam] 👋</h1>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/subbu-galam_69?theme=nord&font=Ubuntu&ext=contest)](https://leetcode.com/subbu-galam_69/)
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Level--Up-orange?style=for-the-badge&logo=leetcode)
-<!--
-**subbugalam47/subbugalam47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
+## 🚀 About Me
+- 🔭 I’m currently working on **[Your Projects]**
+- 🌱 I’m learning **[Your Tech Stack]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 Reach me at **[subbugalam69@gmail.com/linkedin/in/subbugalam]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **💻 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subbugalam47&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subbugalam47&theme=tokyonight" />
+</p>
+
+---
+
+## **🏆 LeetCode Stats**
+<p align="center">
+  <a href="https://leetcode.com/your-leetcode-username/">
+    <img src="https://leetcard.jacoblin.cool/subbu-galam_69?theme=dark&font=Montserrat&ext=contest" />
+  </a>
+</p>
+
+---
+
+## **🔥 LeetCode Badges**
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-100%2B-green?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Medium-50%2B-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Hard-10%2B-red?style=for-the-badge&logo=leetcode" />
+</p>
+
+---
+
+## **🛠 Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## **🤝 Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
