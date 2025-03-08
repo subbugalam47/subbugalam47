@@ -5,10 +5,10 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Your Projects]**
-- 🌱 I’m learning **[Your Tech Stack]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[subbugalam69@gmail.com/linkedin/in/subbugalam]**
+
+Data Scientist with 3 years of experience in Machine Learning, NLP, and Data Analysis, proficient in Python, SQL, TensorFlow, and AWS. Built AI-driven solutions like RAG-based applications, CKD risk models, and AI chatbots. Passionate about leveraging AI/ML for impactful insights and innovation.
+
+- 📫 Reach me at **[subbugalam69@gmail.com]**
 
 ---
 
@@ -52,13 +52,13 @@
 
 ## **🤝 Connect With Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/subbu-galam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/subbugalam47">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/subbu-galam_69/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
