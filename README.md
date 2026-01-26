@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Data Scientist with 3+ years of experience in Software Engineering ,Machine Learning, NLP, and Data Analysis, proficient in Python, SQL, TensorFlow, and AWS. Built AI-driven solutions like RAG-based applications, CKD risk models, and AI chatbots. Passionate about leveraging AI/ML for impactful insights and innovation.
+Data Scientist with 4 years of experience in Software Engineering ,Machine Learning, NLP, and Data Analysis, proficient in Python, SQL, TensorFlow, and AWS. Built AI-driven solutions like RAG-based applications, CKD risk models, and AI chatbots. Passionate about leveraging AI/ML for impactful insights and innovation.
 
 - 📫 Reach me at **[subbugalam69@gmail.com]**
 
